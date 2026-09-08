@@ -692,6 +692,11 @@ section[id] {
         font-size: 1.8rem;
     }
 
+    .side-cards .card:first-child .tech-title {
+        font-size: 1.4rem;
+        letter-spacing: 1px;
+    }
+
     .about-text {
         font-size: 1.1rem;
     }
