@@ -1,5 +1,5 @@
 -------Visit my portfolio-------
-✨[datatech800.github.io] (https://datatech800.github.io/Datatech800/)
+✨[datatech800.github.io] (https://datatech800.github.io/)
 
 
 ## Hi there, I'm Lucas 👋
