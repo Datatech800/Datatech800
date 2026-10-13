@@ -28,8 +28,10 @@
  
   <h3>Others technologies 🛠</h3>
   <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/astro/default.svg"height="40" title="Astro"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" title="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" title="Tailwind"/>
   </p> 
  <h2>Get in touch ✉</h2>
  <p>datatech.contacto@gmail.com</p>
